@@ -5,27 +5,15 @@
 
 }
 
-body {
-      background-image: url(https://lh3.googleusercontent.com/proxy/YaTbrmaJA555JTrwuPG79SG-1Ud1sjn-Ys0RDAQsWqEAY_tNp_rhcxv7En904A7LmChUM9bw-vQYWpE_pNINPbs0);
-
-      background: repeat: no-repeat;
-      
-      background-position: centre;
-
-      background-color: lightseagreen;
-
-      background-size: cover;
-
-}
 p {
-    color: black;
+    color: blueviolet;
     font-size: medium;
     font-size: 24px;
     font-family: 'Times New Roman', Times, serif;
 }
 
 .vital {
-      color: rgb(24, 46, 2);
+      color: green;
 
 }
 
@@ -44,7 +32,14 @@ h1 {
     font-weight: 250;
 }
 
-h1 {
-    font
-
+background {
+    color: lightseagreen;
 }
+
+body {
+    background-color: black;
+    background-image: url('https://i.pinimg.com/originals/16/36/7a/16367a007c1496b5d731f7ff58900765.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}       
