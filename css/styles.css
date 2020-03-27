@@ -1,0 +1,45 @@
+ 
+.intro {
+    font-family: cursive;
+    font-size: 25px;
+
+}
+
+p {
+    color: blueviolet;
+    font-size: medium;
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.vital {
+      color: green;
+
+}
+
+h1 {
+    font-weight: 350;
+    font-size: xx-large;
+}
+
+.coded {
+    font-weight: 250;
+    color: crimson;
+}
+
+.deed {
+    color: indigo;
+    font-weight: 250;
+}
+
+background {
+    color: lightseagreen;
+}
+
+body {
+    background-color: black;
+    background-image: url('https://i.pinimg.com/originals/16/36/7a/16367a007c1496b5d731f7ff58900765.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}       
