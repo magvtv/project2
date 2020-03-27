@@ -1,0 +1,50 @@
+ 
+.intro {
+    font-family: cursive;
+    font-size: 25px;
+
+}
+
+body {
+      background-image: url(https://lh3.googleusercontent.com/proxy/YaTbrmaJA555JTrwuPG79SG-1Ud1sjn-Ys0RDAQsWqEAY_tNp_rhcxv7En904A7LmChUM9bw-vQYWpE_pNINPbs0);
+
+      background: repeat: no-repeat;
+      
+      background-position: centre;
+
+      background-color: lightseagreen;
+
+      background-size: cover;
+
+}
+p {
+    color: black;
+    font-size: medium;
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.vital {
+      color: rgb(24, 46, 2);
+
+}
+
+h1 {
+    font-weight: 350;
+    font-size: xx-large;
+}
+
+.coded {
+    font-weight: 250;
+    color: crimson;
+}
+
+.deed {
+    color: indigo;
+    font-weight: 250;
+}
+
+h1 {
+    font
+
+}
