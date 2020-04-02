@@ -2,7 +2,7 @@ Project name:
 Akan name generator
 
 Description:
-Whe n  a user inputs the birthday including the date the month and year 
+When  a user inputs the birthday including the date the month and year 
 You will get to know your Akan name. 
 
 Author:
