@@ -38,9 +38,12 @@ background {
 }
 
 body {
-    background-color: #000000;
-    background-image: url("/home/pharoh/Documents/moringa-school-projects/WEEK 2/backgrd.jpg");
-    background-attachment: fixed;
-    background-size: cover;
-}  
+    background-repeat: no-repeat;
+    background-image: url("/WEEK 2/backgrd.jpg");
+    width: 1300px;
+    height: 1300px;
+}
+
+    
+    
 
