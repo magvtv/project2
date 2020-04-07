@@ -35,6 +35,6 @@ var date = parseInt('#date').val();
 };*/
 
 dayOfWeek (d) = {
-    [(CC/4)-2*CC-1] [(5*YY/4)] + [(26*(MM+1)/10) + DD] %7
+    [(CC/4)-2*CC-1] :[(5*YY/4)] + [(26*(MM+1)/10) + DD] %7
 };
 
